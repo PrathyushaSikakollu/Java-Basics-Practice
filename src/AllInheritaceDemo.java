@@ -18,7 +18,7 @@ class classC extends classB
 {
 	void methodOneClassC()
 	{
-		System.out.println("Method of ClassC");
+		System.out.println("Method of ClassC ");
 	}
 }
 
