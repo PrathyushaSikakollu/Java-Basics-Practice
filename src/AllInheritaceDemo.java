@@ -2,7 +2,7 @@ class classA
 {
 	void methodOneClassA()
 	{
-		System.out.println("Method of ClassA");
+		System.out.println("Method of ClassA ");
 	}
 }
 
